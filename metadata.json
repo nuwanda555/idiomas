@@ -1,0 +1,6 @@
+{
+  "name": "PolyglotPulse: Alemán, Inglés y Chino con IA",
+  "description": "Aprende alemán, inglés y chino con ejercicios diarios de gramática, vocabulario y evaluación automática de fluidez y pronunciación con IA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
